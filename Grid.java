@@ -6,9 +6,9 @@ import javax.swing.JFrame;
 
     public class Grid{
 
-    JFrame frame;
-    JPanel ventana;
+    JFrame frame; 
+   JPanel ventana;
     JButton bt0 ,bt1, bt2, bt3, bt4, bt5;
-
+//bieber
     }  
 					
