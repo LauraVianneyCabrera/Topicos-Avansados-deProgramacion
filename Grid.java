@@ -9,6 +9,6 @@ import javax.swing.JFrame;
     JFrame frame;
     JPanel ventana;
     JButton bt0 ,bt1, bt2, bt3, bt4, bt5;
-
+//jsjssa
     }  
 					
